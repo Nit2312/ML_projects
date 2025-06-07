@@ -11,6 +11,7 @@ Requires-Dist: scikit-learn
 Requires-Dist: ipykernel
 Requires-Dist: xgboost
 Requires-Dist: catboost
+Requires-Dist: dill
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist
